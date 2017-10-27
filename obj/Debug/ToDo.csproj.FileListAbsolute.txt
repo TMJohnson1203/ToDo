@@ -74,3 +74,7 @@ c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ToDo\ToDo\bin\System.
 c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ToDo\ToDo\obj\Debug\ToDo.csprojResolveAssemblyReference.cache
 c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ToDo\ToDo\obj\Debug\ToDo.dll
 c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ToDo\ToDo\obj\Debug\ToDo.pdb
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ToDo\ToDo\bin\EntityFramework.dll
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ToDo\ToDo\bin\EntityFramework.SqlServer.dll
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ToDo\ToDo\bin\EntityFramework.xml
+c:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ToDo\ToDo\bin\EntityFramework.SqlServer.xml
